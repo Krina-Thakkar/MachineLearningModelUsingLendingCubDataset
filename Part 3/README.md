@@ -1,8 +1,8 @@
 # Machine Learning Models
 
-Linear Regression
-Random Forest
-Neural Network
+# Linear Regression
+# Random Forest
+# Neural Network
 
 1) Implemented 5-cross validation for all the above Machine Learning Models
 
