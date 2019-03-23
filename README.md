@@ -5,8 +5,7 @@ Claat Document Link:
 https://docs.google.com/document/d/1jnMH3PqFteR9db4uKWL_GPhmXxpcOq8MQl1gw6YIB38/edit#heading=h.c8za85cghymb
 
 
-
-
+cleaned file: https://drive.google.com/file/d/1GPkGLihJgpT3XOgPUlWfhcHpYcAUj53K/view
 
 
 Citations:
