@@ -1,4 +1,4 @@
-Machine Learning Models
+# Machine Learning Models
 
 Linear Regression
 Random Forest
