@@ -10,7 +10,9 @@
     Data cleansing , Pre-processing , Feature Engineering 
 
 ### Part 3: Prediction
-    Build 3 models : Regression , Random Forest, Neural Networks. Use MAPE , Try 5-fold cross validation. How does the model performance change
+    Build 3 models : Regression , Random Forest, Neural Networks. 
+    Use MAPE , Try 5-fold cross validation. 
+    How does the model performance change
 
 ### Part 4 : Hyper Optimization
     Hyper parameter tunning :a. Regression: Try L1, L2, Elasticnet regularization. 
