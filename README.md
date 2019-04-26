@@ -16,7 +16,8 @@
 #### c. Random forest: No of trees, Tree depth
 #### AutoML is a craze everyone is behind. Use a. TPOT,  b. AutSKLearn , c. H2o.ai . Discuss manual vs AutoML 
 
-### Part 5 : Build out test cases to test out use cases that are important for your client. Run these tests and write a 1-page report to your client on why they should/shouldn’t use your model to predict interest rates and how they could use your model.
+### Part 5 : Analysis
+#### Build out test cases to test out use cases that are important for your client. Run these tests and write a 1-page report to your client on why they should/shouldn’t use your model to predict interest rates and how they could use your model.
 
 #### Claat Document Link: https://docs.google.com/document/d/1jnMH3PqFteR9db4uKWL_GPhmXxpcOq8MQl1gw6YIB38/edit#heading=h.c8za85cghymb
 #### cleaned file: https://drive.google.com/file/d/1GPkGLihJgpT3XOgPUlWfhcHpYcAUj53K/view
