@@ -2,7 +2,9 @@
 ### Ten use cases and motivations for building a machine learning model using the Lending club database
 
 ### Part 1 : Our ficitional character- Tola the Investor (Risk taker)
-    Research and summarize what your client’s needs are going to be, Explore the data and comment on data quality, features and get a feel for the data. For the purpose of this assignment, we will restrict the data to https://www.kaggle.com/wendykan/lending-club-loan-data. 
+    Research and summarize what your client’s needs are going to be
+    Explore the data and comment on data quality, features and get a feel for the data. 
+    For the purpose of this assignment, we will restrict the data to https://www.kaggle.com/wendykan/lending-club-loan-data. 
 
 ### Part 2: Data preparation 
     Data cleansing , Pre-processing , Feature Engineering 
